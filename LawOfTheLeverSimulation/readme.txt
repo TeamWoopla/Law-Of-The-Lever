@@ -1,4 +1,5 @@
 instructions:
-1)run the python installer
-2)complete the installation
-3)run the "Simulation" file and enjoy :)
+1)download python from here - https://www.python.org/downloads/
+2)run the python installer
+3)complete the installation
+4)run the "Simulation" file and enjoy :)
